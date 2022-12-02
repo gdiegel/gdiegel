@@ -1,26 +1,12 @@
 ### Hi there 👋
 
-<!--
-**gdiegel/gdiegel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 I'm a software engineer with a passion in cloud-native software development, continuous delivery and automated acceptance testing.
 
-Here are some of the things that I feel make me a good engineer:
+Here are some of the things that I feel make me a great engineer:
 
 * What matters most to me is the code, I strive to perfection and take pride in my work
 * I have a bias for action. When I see a problem, I solve it.
-* I am a tinkerer and when others have already given up I will solve the problem
 * I am opinionated and not afraid to speak my mind
 * I show initiative, write articles and love to share knowledge
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-diegel-72a76339/)
