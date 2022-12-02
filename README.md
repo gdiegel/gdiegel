@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a software engineer with a passion in cloud-native software development, continuous delivery and automated acceptance testing.
+I'm a software engineer with a passion for Cloud-native Software Development, Continuous Delivery and Automated Acceptance Testing.
 
-Here are some of the things that I feel make me a great engineer:
+Here are some of the things that I feel make me a well-rounded engineer:
 
 * What matters most to me is the code, I strive to perfection and take pride in my work
 * I have a bias for action. When I see a problem, I solve it.
