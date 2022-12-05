@@ -5,7 +5,7 @@ I'm a software engineer with 13+ years of experience and a passion for Cloud-nat
 Here are some of the things that I feel make me a well-rounded engineer:
 
 * What matters most to me is the code, I strive to perfection and take pride in my work
-* I have a bias for action. When I see a problem, I solve it.
+* I have a bias for action. When I see a problem, I solve it
 * I am opinionated and not afraid to speak my mind
 * I show initiative, write articles and love to share knowledge
 
